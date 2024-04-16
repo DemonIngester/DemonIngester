@@ -1,10 +1,10 @@
- # <center>👋 Welcome to my profile 👋</center>
+ # <p align="center">👋 Welcome to my profile 👋</p>
 
 <p align="center">
   <img width="460" height="300" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGIxeWtvbmN2bGFzNXM1bjR1bmY2OHE1dXdvMXExNG85ZzJncnE4NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TRebCjNbc4dIA/giphy.gif">
 </p>
 
-<center>I love tech and have been dabbling in the world of programming since I was 15. I started by making programs to solve puzzles in the games I played now I mainly make websites/web applications but have some experience making object-oriented programs in C++ for embedded systems. My goal is to continue studying web development and become a full-stack developer, then possibly branch into cloud/server development.</center>
+<p align="center">I love tech and have been dabbling in the world of programming since I was 15. I started by making programs to solve puzzles in the games I played now I mainly make websites/web applications but have some experience making object-oriented programs in C++ for embedded systems. My goal is to continue studying web development and become a full-stack developer, then possibly branch into cloud/server development.</p>
 
 ---
 
